@@ -6,7 +6,6 @@ import Watch from "./pages/watch/Watch";
 
 const App = () => {
   return <Home/>;
-  return <Login/>;
 };
 
 export default App;
